@@ -1,4 +1,4 @@
-package designpatterns.creational.singletion.lazyinitialization;
+package designpatterns.creational.singletion;
 
 public class ThreadSafeCacheSingletonDoubleLocking {
 	private static ThreadSafeCacheSingletonDoubleLocking cache;

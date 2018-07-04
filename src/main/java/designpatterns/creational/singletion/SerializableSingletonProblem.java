@@ -1,4 +1,4 @@
-package designpatterns.creational.singletion.lazyinitialization;
+package designpatterns.creational.singletion;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

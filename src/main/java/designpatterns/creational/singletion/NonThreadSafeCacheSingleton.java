@@ -1,4 +1,4 @@
-package designpatterns.creational.singletion.lazyinitialization;
+package designpatterns.creational.singletion;
 
 public class NonThreadSafeCacheSingleton {
 	private static NonThreadSafeCacheSingleton cache;

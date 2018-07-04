@@ -1,4 +1,4 @@
-package designpatterns.creational.singletion.earlyinitialization;
+package designpatterns.creational.singletion.eagerinitialization;
 
 public class Cache {
 	private static Cache cache = new Cache();
